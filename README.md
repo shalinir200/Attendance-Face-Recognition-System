@@ -13,4 +13,3 @@ Click on Take Attendance ![4](https://github.com/shalinir200/Attendance-Face-Rec
 Attendance of Users displayed ![5](https://github.com/shalinir200/Attendance-Face-Recognition-System/assets/83806236/86d35fb0-8476-4175-8351-3d3b5f006e90)
 
 
-https://drive.google.com/file/d/1udPOk5zWQolvVG4YNJrGHgyaXJZn1lTX/view?usp=drive_link 
